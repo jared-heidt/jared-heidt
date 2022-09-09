@@ -10,7 +10,7 @@
  💻 Working on a [CRUD API written in GO](https://github.com/jared-heidt/swe-influencer-api)  
   
 
-🌱 Learning React, TypeScipt, and GraphQL  
+🌱 Learning React, TypeScipt, GraphQL, and data sturctures and algorithms
   
 
 📬 Email me at jared.heidt14@gmail.com  
