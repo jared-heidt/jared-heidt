@@ -18,7 +18,12 @@
 
 🤝 Connect with me on LinkedIn at https://www.linkedin.com/in/jared-heidt-4ab3431bb/   
   
+### Featured projects  
+- [Zac Brown Band Album Web Application](https://github.com/rishavanand/github-profilinator)
+(REST API Server: Node,js, Express.js, MongoDB; Client: EJS, SASS, Node.js, Passport.js)  
+  
 
+- [Software Engineering Influencer CRUD API](https://github.com/jared-heidt/swe-influencer-api) (Go, Mux, PostgreSQL, Docker)  
 
 
 ### Connect with Me!  
